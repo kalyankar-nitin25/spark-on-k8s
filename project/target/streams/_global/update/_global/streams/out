@@ -1,0 +1,3 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/nitin_kalyankar/Documents/projects/spark-on-k8s/project/"), "spark-on-k8s-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/nitin_kalyankar/Documents/projects/spark-on-k8s/project/"), "spark-on-k8s-build")
